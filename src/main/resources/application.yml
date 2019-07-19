@@ -1,0 +1,6 @@
+spring.application.name: springboot-client
+server.port: 8999
+  
+spring.cache.cache-names: tableCache,addCache
+
+#spring.cache.type: none
